@@ -1,0 +1,149 @@
+
+.bill-wrapper{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.bill-heading p{
+    font-size: 1.5rem;
+}
+
+.bill-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.bill-table{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.bill-container {
+    position: relative;
+}
+
+.bill-table .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1rem;
+    height: 80px;
+}
+
+.bill-table .row:hover:not(.head){
+    background-color: #f5f5f5;
+}
+
+.bill-table .row.head{
+    font-weight: 700;
+}
+
+.bill-table .row .item-viewDetail{
+    flex: 20%;
+}
+
+.bill-table .row .item-viewDetail .btn{
+    display: inline-block;
+    font-size: 1rem;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    line-height: 1rem;
+    font-weight: bold;
+    vertical-align: middle;
+    overflow: hidden;
+    transition: 0.4s;
+    margin-right: 0.5rem;
+    background-color: var(--default-font-hover-color);
+    color: white;
+}
+
+.bill-table .row .item-viewDetail .btn:hover{
+    background-color: var(--default-font-hover-dark-color);
+}
+
+.bill-table .row .item-ID{
+    flex: 10%;
+}
+
+.bill-table .row .item-address{
+    flex: 30%
+}
+
+.bill-table .row .item-date{
+    flex: 20%;
+}
+
+.bill-table .row .item-total{
+    flex: 20%;
+}
+
+.bill-table-remove{
+    flex: 20%;
+}
+
+.bill-table-remove img{
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.inline-table{
+    width: 100%;
+    display: none;
+}
+
+.inline-table.opened{
+    display: block;
+}
+
+.cart-table-in-bill-table{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.cart-table-in-bill-table .row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1rem;
+    height: 80px;
+}
+
+.cart-table-in-bill-table .row:hover:not(.head){
+    background-color: #f5f5f5;
+}
+
+.cart-table-in-bill-table .row.head{
+    font-weight: 700;
+}
+
+.cart-table-in-bill-table .row .item-thumbnail{
+    flex: 20%;
+}
+
+.cart-table-in-bill-table .row .item-thumbnail img{
+    width: 100px;
+    height: 60px;
+}
+
+.cart-table-in-bill-table .row .item-product {
+    flex: 40%;
+}
+
+.cart-table-in-bill-table .row .item-price {
+    flex: 20%;
+}
+
+.cart-table-in-bill-table .row .item-quantity{
+    flex: 20%;
+}

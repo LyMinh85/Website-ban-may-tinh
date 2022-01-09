@@ -1,0 +1,137 @@
+.account-flow{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(0,0,0,.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    display: none;
+}
+
+.account-flow.display {
+    display: block;
+}
+
+.account-scroll-container{
+    width: 100%;
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.account-dialog-content {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.account-login {
+    display: none;
+    margin-top: 87px;
+    padding: 30px 40px 50px;
+    background-color: white;
+    border-radius: 4px;
+    position: relative;
+}
+
+.account-register {
+    display: none;
+    margin-top: 87px;
+    padding: 30px 40px 50px;
+    background-color: white;
+    border-radius: 4px;
+    position: relative;
+}
+
+.close-icon {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.account-header{
+    padding: 10px;
+    text-align: center;
+}
+
+.account-header p {
+    font-size: 1.2rem;
+    color: var(--default-font-color);
+}
+
+.account-input-container {
+    padding: 10px;
+}
+
+.account-input {
+    width: 100%;
+    height: 2rem;
+    font-size: 1rem;
+    padding: 10px;
+    border: 1px solid rgb(184, 184, 184);
+    color: var(--default-font-color);
+    background-color: var(--default-body-color);
+}
+
+.account-input:focus{
+    border: none;
+}
+
+.error-text {
+    font-size: 1rem;
+    color: red;
+    padding: 5px;
+}
+
+.account-button-container{
+    padding: 10px;
+}
+
+.account-button{
+    width: 100%;
+    height: 2rem;
+    font-size: 1rem;
+    padding: 10px;
+    border: none;
+    text-align: center;
+    color: white;
+    background-color: var(--blue-color);
+}
+
+.account-button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+    background-color: var(--blue-color);
+}
+
+#index-none {
+    display: block;
+}
+#index-none div{
+    width: 100%;
+    font-size: 1rem;
+    color:black;
+}
+#index-none div:hover{
+    cursor: pointer;
+    background-color: #eff2ff;
+    color: #657ef8;
+}
+#index-user {
+    display: none;
+}
+#index-user div{
+    font-size: 1rem;
+    color:black;
+}
+#index-user div:hover{
+    cursor: pointer;
+    background-color: #eff2ff;
+    color: #657ef8;
+}
