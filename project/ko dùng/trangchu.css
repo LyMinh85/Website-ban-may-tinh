@@ -1,0 +1,184 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #696969;
+}
+a:hover{
+    color: #adad90;
+}
+p{
+    font-size: 18px;
+} */
+#wrapper .container{
+    width: 1200px;
+    margin: auto;
+}
+
+/*menu*/
+.menu{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 10px 20px;
+    text-transform: uppercase;
+
+}
+.menu img{
+    margin :0px 15px -20px;
+}
+.menu img:hover{
+    opacity: 0;
+}
+
+/*slice*/
+.slice{
+    margin-top: 30px;
+    position: relative;
+
+}
+
+.slice .left{
+    position: absolute;
+    left:75px;
+    top: 210px;
+    width: 400px;
+
+}
+
+.slice .left h2{
+    font-size: 80px;
+    color: #805454;
+}
+.left p{
+    margin-top: 20px;
+}
+.btn{
+    padding: 15px 55px;
+    background-color: #758bda;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+
+}
+.btn:hover{
+background-color: #464444;
+}
+.slice .right{
+    position: absolute;
+    bottom:100px;
+    right: 90px;
+}
+.hidden{
+    background-color: rgb(0,0,0,0);
+    color: #fff;
+    margin-right: 20px;
+    border: none;
+    font-size: 40px;
+    cursor: pointer;
+}
+.hidden:hover{
+    color: #464444;
+}
+/*banner*/
+.banner{
+    margin-top: 20px;
+}
+#bannerLeft{
+    width: 680px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;
+    background-image: url('../Picture/10.jpg');
+    background-size: cover;
+    position: relative;
+}
+#bannerRight{
+    height: 200px;    
+    width: 500px;
+    float: left;
+    background-image: url('../Picture/1.jpg');
+    background-size: cover;
+    position: relative;
+}
+.textL{
+    position: absolute;
+    left: 440px;
+    bottom: 75px;
+    font-size: 50px;
+
+}
+.view1{
+    position: absolute;
+    bottom: 50px;
+    left: 440px;
+    text-transform: uppercase;
+}
+.textR{
+    position: absolute;
+    left: 30px;
+    top: 155px;
+    font-size: 40px;
+
+}
+.view2{
+    position: absolute;
+    top: 210px;
+    left: 30px;
+    text-transform: uppercase;
+}
+
+/*content*/
+#title{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.sp, .ten, .gia, .mua{
+    width: 285px;
+    margin-left: 20px;
+    float: left;
+ 
+}
+.sp:first-child, .ten:first-child, .gia:first-child, .mua:first-child{
+    margin-left: 0;
+}
+.sp{
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.sp img:hover{
+    transform: scale(1.5);
+
+}
+.ten p{
+    color: #464444;
+    text-align: center;
+ 
+    margin-bottom: 10px;
+
+}
+.gia{
+    width: 285px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #818753;
+    margin-bottom: 20px;
+}
+.gia span{
+    font-size: 25px;
+}
+.mua{
+   text-align: center;
+
+
+}

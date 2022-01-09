@@ -1,0 +1,319 @@
+
+MacBook Pro 14 M1 Pro 2021/16-core GPU
+CPU: Apple M1 Pro 200GB/s memory bandwidth.
+RAM: 16 GB.
+Ổ cứng: 1 TB SSD.
+Màn hình: 14.2 inch Liquid Retina XDR display (3024 x 1964) 120Hz.
+Card màn hình: Card tích hợp 16 core-GPU.
+
+MacBook Pro 14 M1 Pro 2021/16-core GPU
+CPU: Apple M1 Pro 200GB/s memory bandwidth.
+RAM: 16 GB.
+Ổ cứng: 1 TB SSD.
+Màn hình: 14.2 inch Liquid Retina XDR display (3024 x 1964) 120Hz.
+Card màn hình: Card tích hợp 16 core-GPU.
+
+
+MacBook Pro 16 M1 Pro 2021/16 core-GPU
+CPU: Apple M1 Pro 200GB/s memory bandwidth.
+RAM: 16 GB.
+Ổ cứng: 512 GB SSD.
+Màn hình: 16.2 inch Liquid Retina XDR display (3456 x 2234) 120Hz.
+Card màn hình: Card tích hợp 16 core-GPU.
+
+MacBook Pro 16 M1 Max 2021/32 core-GPU
+CPU: Apple M1 Pro, 200GB/s memory bandwidth.
+RAM: 16 GB.
+Ổ cứng: 512 GB SSD.
+Màn hình: 16.2 inch, Liquid Retina XDR display (3456 x 2234), 120Hz.
+Card màn hình: Card tích hợp, 16 core-GPU.
+Cổng kết nối: Jack tai nghe 3.5 mm, 3 x Thunderbolt 4 USB-C, HDMI.
+
+
+MacBook Pro M1 2020
+CPU: Apple M1.
+RAM: 8 GB.
+Ổ cứng: 256 GB SSD.
+Màn hình: 13.3" Retina (2560 x 1600)
+Card màn hình: Card tích hợp 8 nhân GPU.
+Cổng kết nối: 2 x Thunderbolt 3 (USB-C) Jack tai nghe 3.5 mm.
+Đặc biệt: Có đèn bàn phím.
+
+
+MacBook Air M1 2020 7-core GPU
+RAM: 8 GB.
+Ổ cứng: 256 GB SSD.
+Màn hình: 13.3" Retina (2560 x 1600)
+Card màn hình: Card tích hợp 7 nhân GPU.
+Cổng kết nối: 2 x Thunderbolt 3 (USB-C) Jack tai nghe 3.5 mm.
+Đặc biệt: Có đèn bàn phím.
+Hệ điều hành: Mac OS.
+
+
+
+MacBook Air M1 2020 8-core GPU
+CPU: Apple M1.
+RAM: 8 GB.
+Ổ cứng: 256 GB SSD.
+Màn hình: 13.3" Retina (2560 x 1600)
+Card màn hình: Card tích hợp 7 nhân GPU.
+Cổng kết nối: 2 x Thunderbolt 3 (USB-C) Jack tai nghe 3.5 mm.
+Đặc biệt: Có đèn bàn phím.
+Hệ điều hành: Mac OS.
+
+
+
+Asus ROG Zephyrus G14 Alan Walker R9 5900HS (K2064T)U
+tìm ko ra
+
+
+Asus TUF Gaming FX516PE i7 11370H (HN005T)3GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB onboard + 1 khe trống) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng.
+Màn hình: 15.6" Full HD (1920 x 1080) 144Hz.
+Card màn hình: Card rời RTX 3050Ti 4GB.
+
+
+
+Asus TUF Gaming FX706HE i7 11800H (HX011T)
+CPU: i7 11800H 2.30 GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB + 1 khe rời) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng.
+Màn hình: 17.3" Full HD (1920 x 1080) 144Hz.
+Card màn hình: Card rời RTX 3050Ti 4GB.
+
+
+Asus ZenBook UX325EA i5 1135G7 (KG363T)
+CPU: i5 1135G7 2.4GHz.
+RAM: 8 GB LPDDR4X (On board) 4267 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1TB)
+Màn hình: 13.3" Full HD (1920 x 1080) OLED.
+Card màn hình: Card tích hợp Intel Iris Xe.
+Cổng kết nối: 1 x USB 3.2 2 x Thunderbolt 4 USB-C HDMI.
+Đặc biệt: Có đèn bàn phím.
+
+
+
+
+Asus ZenBook UX371EA i7 1165G7 (HL494TS)
+CPU: i7 1165G7 2.8GHz.
+RAM: 16 GB LPDDR4X (On board) 4267 MHz.
+Ổ cứng: 1 TB SSD M.2 PCIe.
+Màn hình: 13.3" 4K/UHD (3840 x 2160), OLED.
+Card màn hình: Card tích hợp Intel Iris Xe.
+
+
+ HP Omen 15 ek0078TX i7 10750H (26Y68PA)
+CPU: i7 10750H 2.6GHz.
+RAM: 16 GB DDR4 2 khe (1 khe 8GB + 1 khe 8GB) 2933 MHz.
+Ổ cứng: SSD 1 TB M.2 PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng.
+Màn hình: 15.6" Full HD (1920 x 1080) 300Hz.
+Card màn hình: Card rời RTX 2070 Max-Q 8GB.
+
+
+
+
+HP ZBook Firefly 14 G8 i7 1165G7 (275W0AV)
+Laptop HP ZBook Firefly 14 G8 Mobile Workstation 275W0AV
+ bộ xử lý Intel® Core™ i7-1165G7
+ 4x2.8GHz, turbo up 4.7GHz, 8 threads, 
+12MB Smart Cache. 
+
+
+
+
+
+HP EliteBook X360 830 G8 i7 1165G7 (3G1A4PA)
+CPU: i7 1165G7 2.8GHz.
+RAM: 16 GB DDR4 (On board) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe.
+Màn hình: 13.3" Full HD (1920 x 1080)
+Card màn hình: Card tích hợp Intel Iris Xe.
+Cổng kết nối: 2 x Thunderbolt 4 USB-C 2 x USB 3.1 HDMI Jack tai nghe 3.5 mm.
+Đặc biệt: Có màn hình cảm ứng Có đèn bàn phím.
+Hệ điều hành: Windows 10 Pro.
+
+
+
+"HP Envy 13 ba1031TU i7 1165G7 (2K0B7PA)",
+CPU: i7 1165G7 2.8GHz.
+RAM: 16 GB DDR4 (On board) 2933 MHz.
+Ổ cứng: 1 TB SSD M.2 PCIe.
+Màn hình: 13.3" Full HD (1920 x 1080)
+Card màn hình: Card tích hợp Intel Iris Xe.
+Cổng kết nối: 2 x USB 3.1 Jack tai nghe 3.5 mm Thunderbolt 3.
+Đặc biệt: Có đèn bàn phím.
+Hệ điều hành: Windows 10 Home SL + Office H&S 2019 vĩnh viễn.
+
+
+
+HP Pavilion Gaming 15 dk1159TX i7 10750H (31J36PA)
+CPU: i7 10750H 2.6GHz.
+RAM: 8 GB DDR4 (2 khe) 2933 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Intel Optane 32GB (H10) Hỗ trợ khe cắm HDD SATA.
+Màn hình: 15.6" Full HD (1920 x 1080)
+Card màn hình: Card rời GTX 1650Ti 4GB.
+
+
+
+Lenovo Yoga 9 14ITL5 i7/1185G7 (82BG006EVN)
+chưa ra
+
+
+
+Lenovo YOGA Slim 7 Carbon 13ITL5 i7 1165G7
+CPU: i7 1165G7 2.8GHz.
+RAM: 16 GB LPDDR4X (On board) 4266 MHz.
+Ổ cứng: 1 TB SSD M.2 PCIe.
+Màn hình: 13.3" QHD (2560 x 1600)
+Card màn hình: Card tích hợp Intel Iris Xe.
+Cổng kết nối: 2 x Thunderbolt 4 USB-C Jack tai nghe 3.5 mm USB Type-C.
+Đặc biệt: Có đèn bàn phím.
+Hệ điều hành: Windows 10 Home SL.
+
+
+
+
+
+Lenovo ThinkBook 14s Yoga ITL i7 1165G7 (20WE004EVN)
+chưa ra
+
+
+
+Laptop Lenovo Ideapad Gaming 3 15IMH05 i7 10750H
+CPU: i7 10750H 2.6GHz.
+RAM: 8 GB DDR4 (2 khe) 2933 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Hỗ trợ khe cắm HDD SATA.
+Màn hình: 15.6" Full HD (1920 x 1080)
+Card màn hình: Card rời GTX 1650 4GB.
+
+
+
+Lenovo Thinpad X1 Nano i5 1130G7
+- CPU: Intel Core i5-1130G7 thế hệ thứ 11 (1.80 GHz, Turbo Boost đến 4.00 GHz, 4 nhân 8 luồng, cache 8 MB)
+- GPU: Intel Iris X (kết hợp)
+- RAM: 16GB LPDDR4x 4267MHz (hàn cố định)
+- Ổ cứng: 1 TB PCIe SSD.
+
+
+Dell XPS 13 9310 i7 1165G7 (JGNH62)
+CPU: i7 1165G7 2.8GHz.
+RAM: 16 GB LPDDR4X (On board) 4267 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1TB)
+Màn hình: 13.4" 4K/UHD+ (3840 x 2400)
+Card màn hình: Card tích hợp Intel Iris Xe.
+
+
+
+Dell Gaming G15 5515 R7 5800H (70258051)
+CPU: Ryzen 7 5800H 3.2GHz.
+RAM: 16 GB DDR4 2 khe (1 khe 8GB + 1 khe 8GB) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2TB (2280) / 1TB (2230))
+
+
+Dell Inspiron 7501 i5 10300H (N5I5012W)
+CPU: i5 10300H 2.5GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB onboard + 1 khe trống) 2933 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng.
+Màn hình: 15.6" Full HD (1920 x 1080)
+Card màn hình: Card rời GTX 1650Ti 4GB.
+
+
+
+Dell Latitude 3520 i7 1165G7 (70261780)
+CPU: i7 1165G7 2.8GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB + 1 khe rời) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1TB) Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1TB)
+Màn hình: 15.6" Full HD (1920 x 1080)
+Card màn hình: Card tích hợp Intel Iris Xe.
+
+
+Dell Vostro 3400 i7 1165G7 (V4I7015W)
+Kích thước màn hình:	14 inch
+Độ phân giải màn hình:FHD (1920 x 1080)
+Chuẩn LAN:1 RJ 45
+Cổng USB:1 USB 2.0 Type A, 2 USB 3.2 Gen 1 Type A, 1 USB 3.2 Gen 1 Type C
+
+
+
+MSI Gaming GE66 Raider 11UH i7 11800H (259VN)
+CPU: i7 11800H 2.30 GHz.
+RAM: 32 GB DDR4 2 khe (1 khe 16GB + 1 khe 16GB) 3200 MHz.
+Ổ cứng: 2 TB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2TB)
+Màn hình: 15.6" QHD (2560 x 1440) 240Hz.
+Card màn hình: Card rời RTX 3080 16GB.
+
+
+
+
+MSI Gaming GS66 Stealth 11UG i7 11800H (219VN)
+CPU: i7 11800H 2.30 GHz.
+RAM: 32 GB DDR4 2 khe (1 khe 16GB + 1 khe 16GB) 3200 MHz.
+Ổ cứng: 2 TB SSD NVMe PCIe Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2TB)
+Màn hình: 15.6" Full HD (1920 x 1080) 360Hz.
+Card màn hình: Card rời RTX 3070 Max-Q 8GB.
+
+
+
+MSI Summit E16 Flip A11UCT i7 1195G7 (082VN)
+CPU: i7 1195G7 2.9GHz.
+RAM: 16 GB LPDDR4X (8GB On board + 8GB On board) 2133 MHz (Hãng công bố)
+Ổ cứng: 1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2TB)
+Màn hình: 16" QHD+ (2560 x 1600) 120Hz.
+Card màn hình: Card rời RTX 3050 4GB.
+
+
+
+MSI Prestige 15 A11SC i7 1185G7 (052VN)
+CPU: i7 1185G7 3GHz.
+RAM: 16 GB DDR4 2 khe (1 khe 8GB + 1 khe 8GB) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2TB) Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2TB)
+Màn hình: 15.6" Full HD (1920 x 1080)
+Card màn hình: Card rời GTX 1650 Max-Q 4GB.
+
+
+
+
+MSI GF75 Thin 10SCXR i7 10750H (068VN)
+CPU: i7 10750H 2.6GHz.
+RAM: 8 GB DDR4 (2 khe) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe Hỗ trợ khe cắm HDD SATA.
+Màn hình: 17.3" Full HD (1920 x 1080) 144Hz.
+Card màn hình: Card rời GTX 1650 4GB.
+Cổng kết nối: 3 x USB 3.2 HDMI LAN (RJ45) USB Type-C.
+Đặc biệt: Có đèn bàn phím.
+
+
+
+
+Acer Predator Triton 300 PT315 53 71DJ i7 11800H
+chưa ra
+
+
+
+Acer Nitro 5 Gaming AN515 57 5831 i5 11400H
+CPU: i5 11400H 2.7GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB + 1 khe rời) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe  H
+ỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2TB) Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1TB)
+
+
+
+
+Acer Swift 5 SF514 53T 720R i7 8565U (NX.H7HSV.002
+chưa ra
+
+
+
+Acer Aspire 7 Gaming A715 42G R6ZR R5 5500U
+CPU: Ryzen 5 5500U 2.1GHz.
+RAM: 8 GB DDR4 2 khe (1 khe 8GB + 1 khe rời) 3200 MHz.
+Ổ cứng: Không hỗ trợ khe cắm HDD Không hỗ trợ khe cắm SSD M2 mở rộng thêm 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1TB)
+Màn hình: 15.6" Full HD (1920 x 1080) 144Hz.
+
+
+
+Acer Predator Helios PH315 54 75YD i7 11800H
+CPU: i7 11800H 2.30 GHz.
+RAM: 16 GB DDR4 2 khe (1 khe 8GB + 1 khe 8GB) 3200 MHz.
+Ổ cứng: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1TB) Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2TB) Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1TB)

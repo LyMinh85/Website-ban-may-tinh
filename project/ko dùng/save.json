@@ -1,0 +1,51 @@
+[
+    {
+        "id": "0001",
+        "name": "MacBook Pro 14 M1 Pro 2021/14 core-GPU",
+        "img": "Picture/2021-m-p-14-inch.jpg",
+        "brand": "Apple",
+        "price": "54.990.000₫"
+    },
+    {
+        "id": "0002",
+        "name": "MacBook Pro 14 M1 Pro 2021/16-core GPU",
+        "img": "Picture/2021-m-p-14-inch.jpg",
+        "brand": "Apple",
+        "price": "64.990.000₫"
+    },
+    {
+        "id": "0003",
+        "name": "MacBook Pro 16 M1 Pro 2021/16 core-GPU",
+        "img": "Picture/macbook-pro-14-m1-pro-2021-bac-1.jpg",
+        "brand": "Apple",
+        "price": "69.990.000₫"
+    },
+    {
+        "id": "0004",
+        "name": "MacBook Pro 16 M1 Max 2021/32 core-GPU",
+        "img": "Picture/macbook-pro-14-m1-pro-2021-bac-1.jpg",
+        "brand": "Apple",
+        "price": "90.990.000₫"
+    },
+    {
+        "id": "0005",
+        "name": "MacBook Pro M1 2020",
+        "img": "Picture/macbook-pro-m1-2020-silver-01-org.jpg",
+        "brand": "Apple",
+        "price": "31.740.000₫"
+    },
+    {
+        "id": "0006",
+        "name": "MacBook Air M1 2020 7-core GPU",
+        "img": "Picture/macbook-air-m1-2020-silver-01-org.jpg",
+        "brand": "Apple",
+        "price": "26.040.000₫"
+    },
+    {
+        "id": "0007",
+        "name": "MacBook Air M1 2020 8-core GPU",
+        "img": "Picture/macbook-air-m1-2020-silver-01-org.jpg",
+        "brand": "Apple",
+        "price": "31.240.000₫"
+    }
+]
